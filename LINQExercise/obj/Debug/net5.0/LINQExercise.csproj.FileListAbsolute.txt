@@ -1,0 +1,16 @@
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\bin\Debug\net5.0\LINQExercise.exe
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\bin\Debug\net5.0\LINQExercise.deps.json
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\bin\Debug\net5.0\LINQExercise.runtimeconfig.json
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\bin\Debug\net5.0\LINQExercise.runtimeconfig.dev.json
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\bin\Debug\net5.0\LINQExercise.dll
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\bin\Debug\net5.0\ref\LINQExercise.dll
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\bin\Debug\net5.0\LINQExercise.pdb
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\obj\Debug\net5.0\LINQExercise.csprojAssemblyReference.cache
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\obj\Debug\net5.0\LINQExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\obj\Debug\net5.0\LINQExercise.AssemblyInfoInputs.cache
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\obj\Debug\net5.0\LINQExercise.AssemblyInfo.cs
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\obj\Debug\net5.0\LINQExercise.csproj.CoreCompileInputs.cache
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\obj\Debug\net5.0\LINQExercise.dll
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\obj\Debug\net5.0\ref\LINQExercise.dll
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\obj\Debug\net5.0\LINQExercise.pdb
+C:\Users\איתי עדי יוסף\Desktop\פיתוח\.Net&Angular\Exercise 3 LINQ\LINQExercise\obj\Debug\net5.0\LINQExercise.genruntimeconfig.cache
